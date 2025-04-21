@@ -11,10 +11,8 @@ bluez-utils                                            # bluetooth utility cli
 blueman                                                # bluetooth manager gui
 udiskie                                                # manage removable media
 brightnessctl 					                       # brightness control
-
 # --------------------------------------------------- // Display Manager
 sddm                                                   # display manager for KDE plasma
-
 # --------------------------------------------------- // Window Manager
 hyprland                                               # wlroots-based wayland compositor
 hyprlock                                               # lock screen
@@ -25,7 +23,6 @@ satty                                                  # Modern Screenshot Annot
 cliphist                                               # clipboard manager
 ashell                                                 # top bar
 rofi                                                   # application launcher
-
 # --------------------------------------------------- // Dependencies
 hyprpolkitagent                                        # authentication agent
 xdg-desktop-portal-hyprland                            # xdg desktop portal for hyprland
@@ -34,11 +31,9 @@ xdg-user-dirs                                          # Manage user directories
 jq                                                     # for json processing
 libnotify                                              # for notifications
 noto-fonts-emoji                                       # emoji font
-
 # --------------------------------------------------- // Theming
 qt5-wayland                                            # wayland support in qt5
 qt6-wayland                                            # wayland support in qt6
-
 # --------------------------------------------------- // Applications
 zen                                                    # browser
 kitty                                                  # terminal
@@ -47,6 +42,5 @@ unzip                                                  # extracting zip files
 vim                                                    # terminal text editor
 visual-studio-code-bin                                 # ide text editor
 fish                                                   # shell
-
 # --------------------------------------------------- // HyDE
 hypridle                                               # idle daemon
