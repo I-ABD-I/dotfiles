@@ -1,0 +1,52 @@
+# --------------------------------------------------- // System
+pipewire                                               # audio/video server
+pipewire-alsa                                          # pipewire alsa client
+pipewire-audio                                         # pipewire audio client
+pipewire-jack                                          # pipewire jack client
+pipewire-pulse                                         # pipewire pulseaudio client
+pavucontrol                                            # pulseaudio volume control
+networkmanager                                         # network manager
+bluez                                                  # bluetooth protocol stack
+bluez-utils                                            # bluetooth utility cli
+blueman                                                # bluetooth manager gui
+udiskie                                                # manage removable media
+brightnessctl 					                       # brightness control
+
+# --------------------------------------------------- // Display Manager
+sddm                                                   # display manager for KDE plasma
+
+# --------------------------------------------------- // Window Manager
+hyprland                                               # wlroots-based wayland compositor
+hyprlock                                               # lock screen
+grim                                                   # screenshot tool
+hyprpicker                                             # color picker
+slurp                                                  # region select for screenshot/screenshare
+satty                                                  # Modern Screenshot Annotation
+cliphist                                               # clipboard manager
+ashell                                                 # top bar
+rofi                                                   # application launcher
+
+# --------------------------------------------------- // Dependencies
+hyprpolkitagent                                        # authentication agent
+xdg-desktop-portal-hyprland                            # xdg desktop portal for hyprland
+xdg-desktop-portal-gtk                                 # file picker and dbus  integration
+xdg-user-dirs                                          # Manage user directories like ~/Desktop and ~/Music
+jq                                                     # for json processing
+libnotify                                              # for notifications
+noto-fonts-emoji                                       # emoji font
+
+# --------------------------------------------------- // Theming
+qt5-wayland                                            # wayland support in qt5
+qt6-wayland                                            # wayland support in qt6
+
+# --------------------------------------------------- // Applications
+zen                                                    # browser
+kitty                                                  # terminal
+nautilus                                               # kde file manager
+unzip                                                  # extracting zip files
+vim                                                    # terminal text editor
+visual-studio-code-bin                                 # ide text editor
+fish                                                   # shell
+
+# --------------------------------------------------- // HyDE
+hypridle                                               # idle daemon
