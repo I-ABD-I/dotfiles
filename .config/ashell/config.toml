@@ -155,7 +155,7 @@ dangerColor = "#f38ba8"
 # base default text color
 textColor = "#E2DAD6"
 # this is a list of color that will be used in the workspace module (one color for each monitor)
-workspaceColors = [ "#6495ED", "#6A7480" ]
+workspaceColors = [ "#6495ED", "#D0BFFF" ]
 # this is a list of color that will be used in the workspace module
 # for the special workspace (one color for each monitor)
 # optional, default None
