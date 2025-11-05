@@ -1,5 +1,4 @@
 function fish_greeting
-
 	begin
 		sleep 0.01
 		# run fastfetch only if shell is big enoght

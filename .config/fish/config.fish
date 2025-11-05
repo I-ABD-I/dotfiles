@@ -13,10 +13,12 @@ alias ll='eza -lha --icons=auto --sort=name --group-directories-first' # long li
 alias ld='eza -lhD --icons=auto' # long list dirs
 alias lt='eza --icons=auto --tree' # list folder as tree
 alias vc='code'
+alias cat='bat'
 
 # Handy change dir shortcuts
 abbr .. 'cd ..'
 abbr ... 'cd ../..'
+abbr .2 'cd ../..'
 abbr .3 'cd ../../..'
 abbr .4 'cd ../../../..'
 abbr .5 'cd ../../../../..'
